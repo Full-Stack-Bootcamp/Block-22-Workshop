@@ -1,0 +1,30 @@
+* {
+  color: purple;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+div {
+  padding: 5px;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 3px;
+  margin: 3px;
+}
+
+h1 {
+  color: gold;
+}
+
+.party {
+  background-color: #cbc3e3 !important ;
+  border: 3px solid gold;
+}
